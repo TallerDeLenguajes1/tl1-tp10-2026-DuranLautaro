@@ -1,0 +1,14 @@
+C:\Users\Alumno\tl1-tp10-2026-DuranLautaro\Tareas\bin\Debug\net8.0\tl1-tp10-2026-DuranLautaro.exe
+C:\Users\Alumno\tl1-tp10-2026-DuranLautaro\Tareas\bin\Debug\net8.0\tl1-tp10-2026-DuranLautaro.deps.json
+C:\Users\Alumno\tl1-tp10-2026-DuranLautaro\Tareas\bin\Debug\net8.0\tl1-tp10-2026-DuranLautaro.runtimeconfig.json
+C:\Users\Alumno\tl1-tp10-2026-DuranLautaro\Tareas\bin\Debug\net8.0\tl1-tp10-2026-DuranLautaro.dll
+C:\Users\Alumno\tl1-tp10-2026-DuranLautaro\Tareas\bin\Debug\net8.0\tl1-tp10-2026-DuranLautaro.pdb
+C:\Users\Alumno\tl1-tp10-2026-DuranLautaro\Tareas\obj\Debug\net8.0\tl1-tp10-2026-DuranLautaro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alumno\tl1-tp10-2026-DuranLautaro\Tareas\obj\Debug\net8.0\tl1-tp10-2026-DuranLautaro.AssemblyInfoInputs.cache
+C:\Users\Alumno\tl1-tp10-2026-DuranLautaro\Tareas\obj\Debug\net8.0\tl1-tp10-2026-DuranLautaro.AssemblyInfo.cs
+C:\Users\Alumno\tl1-tp10-2026-DuranLautaro\Tareas\obj\Debug\net8.0\tl1-tp10-2026-DuranLautaro.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\tl1-tp10-2026-DuranLautaro\Tareas\obj\Debug\net8.0\tl1-tp10-2026-DuranLautaro.dll
+C:\Users\Alumno\tl1-tp10-2026-DuranLautaro\Tareas\obj\Debug\net8.0\refint\tl1-tp10-2026-DuranLautaro.dll
+C:\Users\Alumno\tl1-tp10-2026-DuranLautaro\Tareas\obj\Debug\net8.0\tl1-tp10-2026-DuranLautaro.pdb
+C:\Users\Alumno\tl1-tp10-2026-DuranLautaro\Tareas\obj\Debug\net8.0\tl1-tp10-2026-DuranLautaro.genruntimeconfig.cache
+C:\Users\Alumno\tl1-tp10-2026-DuranLautaro\Tareas\obj\Debug\net8.0\ref\tl1-tp10-2026-DuranLautaro.dll
