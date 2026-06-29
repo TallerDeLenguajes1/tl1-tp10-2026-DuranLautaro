@@ -9,10 +9,10 @@
             "type": "coreclr",
             "request": "launch",
             "preLaunchTask": "build",
-            "program": "${workspaceFolder}/Usuarios/bin/Debug/net10.0/tl1-tp10-2026-DuranLautaro.dll",
+            "program": "${workspaceFolder}/bin/Debug/net10.0/MiWebApi.dll",
             "args": [],
-            "cwd": "${workspaceFolder}/Usuarios",
-            "console": "integratedTerminal",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
             "stopAtEntry": false
         },
         {
